@@ -1,0 +1,20 @@
+body {
+    background: black;
+
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #ff009d;
+    font-size: 100px;
+    font-family:  fantasy;
+    letter-spacing: 7px;
+
+   
+   
+
+
+}
